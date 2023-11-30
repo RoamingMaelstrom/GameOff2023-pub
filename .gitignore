@@ -86,4 +86,6 @@ crashlytics-build.properties
 /.VSCodeCounter
 
 # Non-shareable Packages
+/[Aa]ssets/Hovl Studio
 /[Aa]ssets/StarfieldMaterials/
+
