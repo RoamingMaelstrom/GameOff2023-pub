@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7193720da76db664fa62883f5d48f95a, type: 3}
+  m_Name: player_attack10
+  m_EditorClassIdentifier: 
+  clipName: player_attack10
+  clip: {fileID: 8300000, guid: 5267274ce00e6334aa6bbf5bdf1dba21, type: 3}
+  volume: 0.3
+  cooldownOnPlay: 0.25
+  priority: 128

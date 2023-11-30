@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd79f130f5120a4f84328d18a898808, type: 3}
+  m_Name: BestTime
+  m_EditorClassIdentifier: 
+  saveName: best_time
+  saveType: 0
+  intDefaultValue: 9999
+  floatDefaultValue: 0
+  stringDefaultValue: 
+  rangeLower: 0
+  rangeUpper: 0
+  length: 0
+  saveUpdateRuleNumeric: 3
+  saveUpdateRuleString: 0

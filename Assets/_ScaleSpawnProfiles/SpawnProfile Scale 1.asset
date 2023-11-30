@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dadd99b44d0f9a41af84bd59b1a2d50, type: 3}
+  m_Name: SpawnProfile Scale 1
+  m_EditorClassIdentifier: 
+  <LayerName>k__BackingField: scale1_obstacle
+  <Scale>k__BackingField: 1
+  <DensityPerChunk>k__BackingField: 1
+  <SpawnProbabilityGroups>k__BackingField:
+  - <GroupName>k__BackingField: Asteroids
+    <SpawnProbabilityWeight>k__BackingField: 10
+    <ObjectPoolIds>k__BackingField: 4c0400004d0400004e0400004f04000050040000510400005204000053040000
+  - <GroupName>k__BackingField: Junk
+    <SpawnProbabilityWeight>k__BackingField: 15
+    <ObjectPoolIds>k__BackingField: 540400005504000056040000
+  - <GroupName>k__BackingField: Irradiator
+    <SpawnProbabilityWeight>k__BackingField: 30
+    <ObjectPoolIds>k__BackingField: 57040000

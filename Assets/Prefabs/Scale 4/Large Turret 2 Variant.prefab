@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7138161361747674517
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: maxTorque
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: fireRadius
+      value: 175
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: munitionID
+      value: 1450
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: weaponType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: munitionSpeed
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: weaponFireRate
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: maxBurstCooldown
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: minBurstCooldown
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: maxFiringDuration
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 583184355, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: minFiringDuration
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790834, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790836, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -572893860, guid: 0b16e8e4aca254941bdf83a024d1c180, type: 3}
+    - target: {fileID: 2800157375507790836, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_SortingOrder
+      value: -102
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: maxSize
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: maxSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: minSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: baseHealth
+      value: 60000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: baseMatter
+      value: 25000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790837, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: deathParticleType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800157375507790841, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_Name
+      value: Large Turret 2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072865600534934493, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_Size.x
+      value: 2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072865600534934493, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_Size.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072865600534934493, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 123e6cc9f5c5c6b4ab74da199d448327, type: 3}

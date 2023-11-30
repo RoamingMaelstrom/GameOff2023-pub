@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7193720da76db664fa62883f5d48f95a, type: 3}
+  m_Name: laser_small2
+  m_EditorClassIdentifier: 
+  clipName: laser_small2
+  clip: {fileID: 8300000, guid: a244e3d79543a784797434f55b454dcd, type: 3}
+  volume: 0.258
+  cooldownOnPlay: 0.18
+  priority: 120

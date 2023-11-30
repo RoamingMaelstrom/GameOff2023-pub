@@ -1,0 +1,25 @@
+REQUIRED ######################################
+
+New Input System
+Cinemachine
+Better UI
+TextMeshPro
+Visual Studio Editor
+
+
+
+QOL EDITOR #############################################
+
+Asset Usage Detector
+Fullscreen Editor
+
+
+
+WORTH CHECKING OUT ######################################
+
+Complete Sci-Fi GUI/UI + psd sources
+Dialogue System for Unity
+Smart Lighting 2D
+Sci-Fi Weapons Pack 1
+TopDown Engine
+HQ Realistic Explosions

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dadd99b44d0f9a41af84bd59b1a2d50, type: 3}
+  m_Name: SpawnProfile Scale 5
+  m_EditorClassIdentifier: 
+  <LayerName>k__BackingField: scale5_obstacle
+  <Scale>k__BackingField: 5
+  <DensityPerChunk>k__BackingField: 50
+  <SpawnProbabilityGroups>k__BackingField:
+  - <GroupName>k__BackingField: Medium Asteroids
+    <SpawnProbabilityWeight>k__BackingField: 50
+    <ObjectPoolIds>k__BackingField: 190500001a0500001b0500001c050000
+  - <GroupName>k__BackingField: Medium Enemies
+    <SpawnProbabilityWeight>k__BackingField: 10
+    <ObjectPoolIds>k__BackingField: 1d0500001e0500001f05000020050000
+  - <GroupName>k__BackingField: Large Enemies
+    <SpawnProbabilityWeight>k__BackingField: 3
+    <ObjectPoolIds>k__BackingField: 780500007b050000
+  - <GroupName>k__BackingField: Large Turrets
+    <SpawnProbabilityWeight>k__BackingField: 3
+    <ObjectPoolIds>k__BackingField: 790500007a050000
+  - <GroupName>k__BackingField: Planets
+    <SpawnProbabilityWeight>k__BackingField: 1
+    <ObjectPoolIds>k__BackingField: dd050000de050000df050000e0050000e1050000e2050000e3050000e4050000

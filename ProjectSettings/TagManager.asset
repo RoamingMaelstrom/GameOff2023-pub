@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - no_interactions
+  - scale1_obstacle
+  - scale2_obstacle
+  - scale3_obstacle
+  - scale4_obstacle
+  - scale5_obstacle
+  - 
+  - 
+  - 
+  - scale1_player
+  - scale2_player
+  - scale3_player
+  - scale4_player
+  - scale5_player
+  - 
+  - 
+  - 
+  - obstacle_despawner
+  - drops_layer
+  - drone
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Damage Text
+    uniqueID: 3447423005
+    locked: 0

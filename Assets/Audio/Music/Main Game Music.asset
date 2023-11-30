@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20461da5228b2b44da0f6a6c30d6a84c, type: 3}
+  m_Name: Main Game Music
+  m_EditorClassIdentifier: 
+  containerName: Main Game Music
+  tracks:
+  - {fileID: 8300000, guid: c4f02ce173a72254b8670321afcf4474, type: 3}
+  - {fileID: 8300000, guid: 9010ef916b9696848995e6112ad55380, type: 3}
+  - {fileID: 8300000, guid: db50d4960da94a64cbff46bc77629f8d, type: 3}
+  - {fileID: 8300000, guid: e3644502629d819428b5a91c95221527, type: 3}
+  - {fileID: 8300000, guid: 6375f512ae031a940a6f8b6282c957b6, type: 3}
+  - {fileID: 8300000, guid: 94758c80d3f934b4ab32ec82d720c98d, type: 3}
+  - {fileID: 8300000, guid: 867ee4cd608840f49ab0e403a5df9256, type: 3}
+  - {fileID: 8300000, guid: 16d2a45a071e94e439a56133626656cc, type: 3}
+  - {fileID: 8300000, guid: dab38784b636fc3409de034a63392e55, type: 3}
+  trackPath: 
+  containerVolumeMultiplier: 1
+  defaultFadeOutDuration: 0.5
+  defaultFadeInDuration: 0.5
+  mode: 0

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4537471382814294480
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773154, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773156, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1884622866, guid: 0b16e8e4aca254941bdf83a024d1c180, type: 3}
+    - target: {fileID: 1739654317816773156, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_SortingOrder
+      value: -102
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773156, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb09bb4a72cfd264186233d57c62c9eb, type: 2}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: maxSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: minSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: maxSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: minSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: baseHealth
+      value: 50000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: baseMatter
+      value: 25000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773157, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: deathParticleType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1739654317816773161, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Name
+      value: Large Turret 1 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6692221385362862605, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6692221385362862605, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6692221385362862605, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6692221385362862605, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+      propertyPath: m_Direction
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+--- !u!50 &2800157375507790838 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 1739654317816773158, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+  m_PrefabInstance: {fileID: 4537471382814294480}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2800157375507790841 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1739654317816773161, guid: dce23e5e118f4f3418a94b041cf7d9dd, type: 3}
+  m_PrefabInstance: {fileID: 4537471382814294480}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &583184355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2800157375507790841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 909e5903e7039764283e0f586f97150b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireWeaponEvent: {fileID: 11400000, guid: f014c64964b0a2045a4c3360d7e7b1f7, type: 2}
+  body: {fileID: 2800157375507790838}
+  scale: 4
+  nearestTarget: {x: 0, y: 0, z: 0}
+  maxRotationSpeed: 120
+  maxTorque: 75
+  fireRadius: 150
+  minBurstCooldown: 1.5
+  maxBurstCooldown: 3
+  minFiringDuration: 0.4
+  maxFiringDuration: 0.8
+  weaponFireRate: 6
+  weaponType: 0
+  munitionID: 1450
+  munitionSpeed: 110
+  combatCountdown: 0
+  firing: 0

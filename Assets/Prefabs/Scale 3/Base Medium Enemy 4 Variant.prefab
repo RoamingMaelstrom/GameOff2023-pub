@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1205688411346163092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: maxTorque
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: munitionID
+      value: 1351
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: weaponType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: combatSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: munitionSpeed
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: standardSpeed
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: weaponFireRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: maxRotationSpeed
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: minBurstCooldown
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: maxFiringDuration
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: minFiringDuration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: exitCombatDistance
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: enterCombatDistance
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: exitPursuitDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389009810344831211, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: enterPursuitDistance
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357392, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357398, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 986751556, guid: 2a40a59375dc89648b1cd783b3f90301, type: 3}
+    - target: {fileID: 6440307024498357399, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: maxSize
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357399, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: minSize
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357399, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: baseHealth
+      value: 12000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357399, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: baseMatter
+      value: 1250
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357399, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: deathParticleType
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6440307024498357403, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
+      propertyPath: m_Name
+      value: Base Medium Enemy 4 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cabbe3d6338a9ed4b8fecede4dd69c08, type: 3}
