@@ -87,6 +87,7 @@ crashlytics-build.properties
 
 # Non-shareable Packages
 /[Aa]ssets/Hovl Studio/
-/[Aa]ssets/StarfieldMaterials/
 /[Aa]ssets/ScienceFictionGUI/
+/[Aa]ssets/StarfieldMaterials/
+/[Aa]ssets/TheraBytes
 
